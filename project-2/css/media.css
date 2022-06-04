@@ -1,0 +1,32 @@
+@media (max-width : 575px) {
+    .all-div{
+      display: flex;
+      flex-direction: column;
+      padding: 5px;
+    } 
+    .form-idea{
+      width: 0;
+      background-color: red;
+    }
+    .all-ingrren-box{
+      padding: 1rem !important;
+    }
+    .small-box{
+      flex-direction: column;
+    }
+    .all-box-img{
+      flex-direction: column;
+    }
+    .typb-build-website{
+      flex-direction: column;
+    }
+    .typb-build-website .boxes{
+      margin-bottom: 10px;
+    }
+    .footer .channel{
+      flex-direction: column;
+    }
+    .footer .form-content-sales{
+      width: 0px
+    }
+  }
